@@ -169,8 +169,6 @@ public class Home extends AppCompatActivity implements NavigationView.OnNavigati
 
     //EventBus declaration for mainActivity to receive information-
 
-
-
     @Override
     protected void onStart() {
         super.onStart();
